@@ -3,8 +3,8 @@ Period:2
 Date:11/8/2018
  Goal 1:Write code fluently, be able to write code without errors
 Self-assesment rating:2
-Why did you give yourself that self-assesment rating: I still hesitate alot while writing code, I also make alot of mistakes whiel writing the code even though I plan it out.
+Why did you give yourself that self-assessment rating: I still hesitate a-lot while writing code, I also make a-lot of mistakes while writing the code even though I plan it out.
  Goal 2:
 Self-assessment rating:1
-Why did you give yourself that self-assesment rating:On the magpie project which is the most recen project we had, I actually didn't have to plan as the plan was given to me by Mr.Wang in the instructions. However I should have made my own plan to measure my own success and also a plan for studying.
+Why did you give yourself that self-assessment rating:On the magpie project which is the most recent project we had, I actually didn't have to plan as the plan was given to me by Mr.Wang in the instructions. However I should have made my own plan to measure my own success and also a plan for studying.
 publish to different branch
